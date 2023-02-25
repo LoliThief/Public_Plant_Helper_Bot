@@ -10,7 +10,7 @@ from config import TOKEN
 # PIP libraries
 import telebot
 
-owner_id = 713697602
+owner_id = #my_id was here 
 send_actions = False
 
 bot = telebot.TeleBot(TOKEN)

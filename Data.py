@@ -50,5 +50,5 @@ accepting_question = ""
 thank_message = ""
 
 super_usernames = [
-    "zxc_L1za"
+    "my_username"
 ]

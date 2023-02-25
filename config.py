@@ -1,2 +1,2 @@
-#TOKEN = "1381943496:AAFZcoep3AmGYLvsl5jt8wOcrXGsFuDbGiM" # Testing
-TOKEN = "6239821916:AAFG4QYxQVxdOGJ10f2Da-HMouDKlX0LurA" # Actual
+#TOKEN = "placeholder" # Testing
+#TOKEN = "second_placeholder" # Actual
