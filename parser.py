@@ -46,7 +46,7 @@ for category in tqdm(categories.keys(), total=len(categories)):
 	print(categories[category], ':', sep='')
 	category_content = {}
 	for page in range(1, number_of_pages):
-		response = requests.get(f"https://rastenievod.com/category/komnatnye-rasteniya/{category}/page/{page}")
+		response = requests.get(f"https://{site}/category/komnatnye-rasteniya/{category}/page/{page}")
 		if response.status_code != 200:
 			#print(f"BREAK ON PAGE:{page}")
 			break
